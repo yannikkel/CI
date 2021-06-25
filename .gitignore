@@ -31,7 +31,6 @@ out/
 .vscode/
 
 ### Package Files ###
-*.jar
 *.war
 *.nar
 *.ear
@@ -42,4 +41,6 @@ out/
 ### Exclusions ###
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
-!**/src/test/**
+!**/src/test/***
+!.jar
+!gradle/wrapper/gradle-wrapper.jar
