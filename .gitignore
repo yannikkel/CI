@@ -6,7 +6,7 @@ build/
 
 ### STS ###
 .apt_generated
-.classpath
+
 .factorypath
 .project
 .settings
@@ -25,7 +25,7 @@ out/
 /nbbuild/
 /dist/
 /nbdist/
-/.nb-gradle/
+
 
 ### VS Code ###
 .vscode/
@@ -36,7 +36,6 @@ out/
 *.ear
 *.zip
 *.tar.gz
-*.rar
 
 ### Exclusions ###
 !gradle/wrapper/gradle-wrapper.jar
